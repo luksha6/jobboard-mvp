@@ -1,4 +1,4 @@
-# JobBoard MVP
+# JobBoard MVP - Testing AI tools - playground
 
 A full-stack job board application built with Next.js, Prisma, SQLite, and Tailwind CSS.
 
